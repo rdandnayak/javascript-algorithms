@@ -15,4 +15,4 @@ function rotateArrayBy(arr, d) {
   return arr;
 }
 
-console.log(rotateArrayBy([1, 2, 3, 4, 5], 2));
+console.log(rotLeft([1, 2, 3, 4, 5], 3));
